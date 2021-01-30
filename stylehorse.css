@@ -1,0 +1,19 @@
+#h{color:red;}
+#o{color:orange;}
+#r{color:yellow;}
+#s{color:green;}
+#e{color:blue;}
+
+table{
+	font-family:arial, sans-serif;
+	border-collapse: collapse;
+	width: 20%;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+td, th{
+	border:1px solid #dddddd;
+	text-align:left;
+	padding 20px;
+}
