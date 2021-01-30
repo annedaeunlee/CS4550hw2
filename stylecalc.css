@@ -1,0 +1,45 @@
+button {
+	width:100%;
+	height:3em;
+	font-size: 15pt;
+	font-family: 'Open Sans', sans-serif;
+}
+table, #display{
+	width:23%;
+
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+	text-align:center;
+}
+
+#t{
+	display: flex;
+  	align-items: center;
+  	justify-content: center
+}
+
+#display{
+	margin: auto;
+}
+table, #display, td {
+  	border: 1px solid black;
+}
+
+#display{
+  	height: 40px;
+  	line-height: 40px;
+  	text-align: right;
+  	border-bottom: 0px;
+  	font-size: 15pt;
+  	font-family: 'Open Sans', sans-serif;
+}
+
+.symbol{
+	background-color: skyblue;
+}
+.number{
+	background-color:whitesmoke;
+}
+
